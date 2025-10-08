@@ -53,6 +53,11 @@ A simple **React-based Event Landing Page** that showcases an upcoming event. Th
 
 
 
+### Deployed_Link (Check this for refrence )
+https://fswd-practice-questions-git-main-vaibhav-giris-projects.vercel.app/
+
+
+
 ## Getting Started
 
 ### Prerequisites
@@ -66,5 +71,4 @@ git clone <your-github-repo-link>
 
 
 
-### Deployed_Link
-https://fswd-practice-questions-git-main-vaibhav-giris-projects.vercel.app/
+
