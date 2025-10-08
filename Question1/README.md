@@ -63,3 +63,8 @@ A simple **React-based Event Landing Page** that showcases an upcoming event. Th
 1. Clone the repository:
 ```bash
 git clone <your-github-repo-link>
+
+
+
+### Deployed_Link
+https://fswd-practice-questions-git-main-vaibhav-giris-projects.vercel.app/
